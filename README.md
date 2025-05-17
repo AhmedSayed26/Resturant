@@ -33,29 +33,19 @@ A responsive and animated food explorer app powered by [TheMealDB API](https://w
 ---
 
 ## ✨ Features
-Animated sidebar navigation
-
-View meals by:
-
-Category
-
-Area (Cuisine)
-
-Ingredient
-
-Search meals by name or letter
-
-Show meal details in a modal:
-
-Instructions
-
-Area, Category
-
-Ingredients + Measurements
-
-YouTube video
-
-Responsive for all devices
+📂 Animated sidebar navigation  
+📁 View meals by:  
+  📚 Category  
+  🌍 Area (Cuisine)  
+  🧂 Ingredient  
+🔍 Search meals by name or letter  
+🍽️ Show meal details in a modal:  
+  📝 Instructions  
+  🌎 Area, 📚 Category  
+  📋 Ingredients + Measurements  
+  ▶️ YouTube video  
+📱 Responsive for all devices  
+⚡ Smooth UX with loading spinners 
 
 Smooth UX with loading spinners
 
