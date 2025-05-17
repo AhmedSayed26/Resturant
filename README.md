@@ -47,7 +47,6 @@ A responsive and animated food explorer app powered by [TheMealDB API](https://w
 📱 Responsive for all devices  
 ⚡ Smooth UX with loading spinners 
 
-Smooth UX with loading spinners
 
 ----
 
